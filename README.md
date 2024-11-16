@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm an Open Source Developer leveraging computatio
 ## Research Projects
 -**Analyzing Incel Isolation using Machine Learning**: Lead researcher at the University at Buffalo, working with Prof. Erdem Sariyuce to develop a classification model identifying users at risk of deep engagement in incel-related subreddits. [Paper submitted to NeurIPS 2024](https://github.com/ahmetdemirbas-git/RedditIncelAnalysis).
   
--**Mobile Skin Ulcer/Oral Wound Scanning Application**: Interning under Prof. Wenyao Xu to create a mobile app for analyzing wound tissue images using Deep Learning. [Paper submitted to MobiCom4AgeTech 2024](https://drive.google.com/file/d/1Ayjgp8sr_cPC2VKioBpe1WOQj9JC5UK6/view?usp=sharing).
+-**Mobile Skin Ulcer/Oral Wound Scanning Application**: Interning under Prof. Wenyao Xu to create a mobile app for analyzing wound tissue images using Deep Learning. [Paper submitted to MobiCom4AgeTech 2024].
 
 -**Mobile Auditory-Pupillary Response Test**: Developed a mobile application to test for hyperacusis, with findings published in the ACM Transactions on Computing for Healthcare Journal 2024.
 
