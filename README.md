@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm an Open Source Developer leveraging computatio
 -**Industrial MetaVerse Digital Twin**: Developed a 3D printer digital twin using Unity VR for safety training. [Published in the Journal of Student Research 2024].
 
 ## Unity Game Development
--**Active Ragdoll Tutorial**: Created a widely recognized YouTube tutorial on implementing active ragdoll physics in Unity, with over 25,000 downloads of the Unity package. [Watch the tutorial](https://www.youtube.com/watch?v=klgd1Doymwk).
+-**Active Ragdoll Tutorial**: Created a widely recognized YouTube tutorial on implementing active ragdoll physics in Unity, with over 25,000 downloads of the Unity package. [Watch the tutorial](https://www.youtube.com/watch?v=FHOuyn53xUk&ab_channel=AhmetDemirbas).
 
 ## Get in Touch- 🌐 [CodeSocialGood Website](https://www.codesocialgood.org/)
 - 📧 [Email](mailto:ahmetdemirbas@gmail.com)
