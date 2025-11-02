@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm an Open Source Developer leveraging computational approaches for tackling BioTech and Social challenges. My work spans from advanced machine learning projects to innovative Unity game development, with a passion for creating impactful solutions.
 
 ## About Me
-- 🎓 **Education**: Senior Student at Williamsville East High School | Incoming Freshman at the California Institute of Technology studying Computer Science
+- 🎓 **Education**: Freshman at the California Institute of Technology studying Computer Science
 - 💻 **Programming Languages**: Certified in C#, Python, Java, and HTML. Five years of experience in Unity Game Development and Design across Desktop, Mobile, and VR platforms.
 
 ## [Research Projects](https://scholar.google.com/citations?hl=en&user=_0Ih0gkAAAAJ)
